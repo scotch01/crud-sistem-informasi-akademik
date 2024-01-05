@@ -1,4 +1,4 @@
-# Sistem Informasi Akademik Sederhana'
+# Sistem Informasi Akademik Sederhana
 
 Project Ini Merupakan Tugas Akhir Kelompok Pemrograman Lanjutan
 
