@@ -34,7 +34,7 @@ You can simply create an account by registering and then logging in
 1. **Clone Repository**
 
 ```bash
-  git clone
+  git clone https://github.com/scotch01/crud-sistem-informasi-akademik.git
 
   cd crud-sistem-informasi-akademik
 
