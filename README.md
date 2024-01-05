@@ -13,17 +13,12 @@ Feature:
 -   LogIn | LogOut
 -   CRUD
 
-![register.png](ss/register.png)
-
-![login.png](ss/login.png)
-
-![dashboard.png](ss/dashboard.png)
-
-![view.png](view/login.png)
-
-![add.png](ss/add.png)
-
-![edit.png](edit/login.png)
+![register](https://github.com/scotch01/crud-sistem-informasi-akademik/assets/101814955/f723de7f-06f0-4a97-a50c-b7ddd274f5b4)
+![login](https://github.com/scotch01/crud-sistem-informasi-akademik/assets/101814955/f67d4a1d-ae8b-41dd-a4e6-887af76bfaa4)
+![dashboard](https://github.com/scotch01/crud-sistem-informasi-akademik/assets/101814955/8f9b557b-49a3-4fc0-9976-08c7c95d10b5)
+![view](https://github.com/scotch01/crud-sistem-informasi-akademik/assets/101814955/feaf70da-ffd1-4408-9023-1a7446417142)
+![edit](https://github.com/scotch01/crud-sistem-informasi-akademik/assets/101814955/81a7e1cc-1431-4ec8-933e-118e5238abd1)
+![add](https://github.com/scotch01/crud-sistem-informasi-akademik/assets/101814955/c5a43a0e-0630-4fde-93c2-cdc55f9a5307)
 
 ## Account for testing
 
